@@ -878,3 +878,5 @@ html .cke_skin_kama {
 html.cke_skin_kama_container { visibility: visible }
 
 #cke_contents_company_summary iframe {width:275px!important;}
+
+.rtl #cke_contents_company_summary iframe {direction:rtl;}
